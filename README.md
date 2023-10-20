@@ -1,5 +1,5 @@
 # Hello World! 👋
-## ✨I'm **NACHO MARTÍNEZ** and WELCOME to my Github! ✨
+## ✨I'm **Nacho Martínez** and WELCOME to my Github! ✨
 ### About me
 
 🔹 Marine scientist by career, during this I realized that what I liked most was studying the subjects that had **statistics** and where I learned to **analyze data** by using the statistical software R.
@@ -14,6 +14,6 @@
 
 *In progress → Cloud (Azure)*
 
-⬇️ **I invite you to contact me for any type of query. See you soon!**
-<br>
+⬇️ **I invite you to contact me for any type of query. See you soon!** <br>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/StatisticsWithJIMP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Nachomart6/)
